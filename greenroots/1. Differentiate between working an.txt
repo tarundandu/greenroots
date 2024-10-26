@@ -1,0 +1,1 @@
+1. Differentiate between working and pin diagrams of channel 1 and channel 2 relay,
